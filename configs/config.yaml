@@ -1,0 +1,10 @@
+Database:
+  URL: mongodb://localhost:27017/acn-user
+  dbname: acn_database
+  host: 127.0.0.1:3306
+  username: root
+  password: 0872772514Za
+APP:
+  PORT: 8080
+  SECRET:
+    hmacSampleSecret: ACN18102024PROJECT
